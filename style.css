@@ -1,0 +1,37 @@
+h1, h2 {
+    text-align: center;
+}
+
+#score {
+    text-align: center;
+}
+
+#buttons{
+    text-align: center;
+}
+
+#scoreboard{
+    text-align: center;
+}
+
+.button-hands {
+    height: 80px;
+    width: 80px;
+    margin: 15px;
+    background-size: contain;
+    border-radius: 5px;;
+    border: black;
+}
+
+#rock {
+    background-image: url('assets/rock.png');
+}
+
+#paper {
+    background-image: url('assets/paper.png');
+}
+
+#scissors {
+    background-image: url('assets/scissor.png');
+}
+
